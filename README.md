@@ -1,2 +1,4 @@
 # favorite-desserts
-A repository about favorite desserts
+
+- Jairo: Affogato
+- Julien: Crepes
